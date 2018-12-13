@@ -183,6 +183,22 @@
             }
         },
         {
+            "Key": "c10cef77-8aa5-48e4-bbd4-277d2a4af357",
+            "Value": {
+                "id": "a93eff94-9440-4861-a0c0-7a081b65d7f1",
+                "resourcePath": "sprites\\sprite_block\\sprite_block.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "cbbf30ce-7de5-4b82-82e6-a4a81989dbae",
+            "Value": {
+                "id": "98d79da9-5ba7-4f57-bbfe-a1f3bbb35273",
+                "resourcePath": "objects\\object_block\\object_block.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "d8a80e61-d5c9-40dc-8e16-c38fb68966a5",
